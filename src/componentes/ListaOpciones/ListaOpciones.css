@@ -1,0 +1,16 @@
+.lista-opciones label{
+    display: block;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: "Montserrat","prata",sans-serif;
+    margin-bottom: 8px; 
+
+}
+.lista-opciones select{
+    width: 100%;
+    background-color: rgb(240, 148, 73);
+    box-shadow: 7px 7px 15px rgba(0,0,0,10 );
+    border-radius: 20px;
+    padding: 8px;
+    font-size: 22px;
+}

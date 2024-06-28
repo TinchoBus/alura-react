@@ -1,0 +1,23 @@
+.footer{
+   
+    text-align: center;
+    padding: 2%;
+  
+    box-sizing: border-box;
+    background-size: auto;
+    background-position: center;
+    justify-content: space-between;
+    color: #009ca7;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+.redes img{
+    padding: 0px 15px;
+    font-size: 70px;
+}
+
+
+
+
+

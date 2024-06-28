@@ -1,0 +1,28 @@
+.orgSection{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.title{
+    color:blueviolet;
+    font-size: 40px;
+    font-size: 900;
+    padding-bottom: 50px;
+    border-bottom: 8px solid blueviolet;
+}
+.orgSection img{
+    position:absolute;
+    right: 30%;
+    cursor: pointer;
+    width: 60px;
+    height: 60px;
+    
+
+    
+
+    
+
+
+}

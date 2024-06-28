@@ -1,0 +1,22 @@
+.campo-texto{
+    margin: 24px 0;
+    font-family: "Montserrat","prata",sans-serif;
+}
+.campo-texto label{
+    font-family: "Montserrat","prata",sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    display:block ;
+    margin-bottom: 8px;
+
+}
+.campo-texto input{
+    width: 100%;
+    background-color: antiquewhite;
+    box-shadow:10px 10px 30px rgba(red, green, blue, alpha) ;
+    border-radius: 10px;  
+    padding: 10px 5px;
+    outline: color(srgb red green blue);
+    font-size: 18px;
+    box-sizing: border-box;
+}
