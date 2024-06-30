@@ -1,6 +1,6 @@
 import { useState } from "react"
 import "./Formulario.css"
-import CampoTexto from "../CampoTexto"
+import CampoTexto from "../Campo"
 import ListaOpciones from "../ListaOpciones"
 import Boton from "../Boton"
 
@@ -83,6 +83,7 @@ const Formulario = (props) => {
                 required
                 valor={color}
                 actualizarValor={actualizarColor}
+                type="color"
             />
 
             <Boton>Registrar equipo </Boton>
